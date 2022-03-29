@@ -11,30 +11,34 @@ redirect_from:
 Welcome~
 
 
-# My CV
+# My CV（我的学术简历）
 
 [cv(中文)](https://liuyezi0.github.io/files/liuyezi/ye_cv.pdf)
 
 [cv(English)](https://liuyezi0.github.io/files/liuyezi/ye_cv_enn.pdf)
 
+# Major Research Interests（主要的研究兴趣）
 
-# Brief Introduction
+Internet and New Media;Philanthropic Communication; Social Network Analysis; Technology and Nonprofits 
 
-* Sep, 2020 ~ Present: Sichuan University （四川大学）, Ph.D. candidate, Internet and New Media.
-* Sep, 2016 ~ May, 2019: Communication University of China （中国传媒大学）, M.D., Internet information.
-* Sep, 2012 ~ May, 2016: Hunan Normal University, B.A., Internet and New Media.
+# Brief Introduction（教育经历）
+
+* Sep, 2019 ~ Present: Sichuan University （四川大学）, Ph.D. candidate, Internet and New Media.
+* Sep, 2016 ~ June, 2019: Communication University of China （中国传媒大学）, M.D., Internet information.
+* Sep, 2012 ~ June, 2016: Hunan Normal University（湖南师范大学）, B.A., Internet and New Media.
 
 
-# My Publications (点击直接查看)
+# My Publications（已发表论文）
+(直接点击即可查看)
 
 
-[1] [《政策工具选择的适配均衡与协同治理——-基于社会组织政策文本的研究》](http://liuyezi0.github.io/files/liuyezi/publications/政策工具选择的适配均衡与协同治理——基于社会组织政策文本的研究.pdf)
+[1] [《政策工具选择的适配均衡与协同治理——基于社会组织政策文本的研究》](http://liuyezi0.github.io/files/liuyezi/publications/政策工具选择的适配均衡与协同治理——基于社会组织政策文本的研究.pdf)
 
 [2] [《重大突发公共卫生事件背景下在线教育的消费与传播重构》](http://liuyezi0.github.io/files/liuyezi/publications/重大突发公共卫生事件背景下在线教育的消费与传播重构.pdf)
 
-[3] [《情境、应对与修复:公益组织的舆情危机传播与治理研究---基于湖北红十字会新冠疫情事件的分析](http://liuyezi0.github.io/files/liuyezi/publications/情境_应对与修复_公益组织的舆情_省略_于湖北红十字会新冠疫情.pdf)
+[3] [《情境、应对与修复:公益组织的舆情危机传播与治理研究——基于湖北红十字会新冠疫情事件的分析](http://liuyezi0.github.io/files/liuyezi/publications/情境_应对与修复_公益组织的舆情_省略_于湖北红十字会新冠疫情.pdf)
 
-[4] [《主体属性与话语表达:公众人物的影响力传播与构建研究---基于《时代周刊》"全球最具影响力人物"榜的分析》](http://liuyezi0.github.io/files/liuyezi/publications/主体属性与话语表达_公众人物的影_省略_刊_全球最具影响力人物.pdf)
+[4] [《主体属性与话语表达:公众人物的影响力传播与构建研究——基于<时代周刊>"全球最具影响力人物"榜的分析》](http://liuyezi0.github.io/files/liuyezi/publications/主体属性与话语表达_公众人物的影_省略_刊_全球最具影响力人物.pdf)
 
 [5] [《青春校园题材剧悬浮化倾向及纠偏路径》](http://liuyezi0.github.io/files/liuyezi/publications/青春校园题材剧悬浮化倾向及纠偏路径.pdf)
 
@@ -47,6 +51,8 @@ Welcome~
 [9] [《艾滋病机构类新浪微博信息传播研究》](http://liuyezi0.github.io/files/liuyezi/publications/艾滋病机构类新浪微博信息传播研究.pdf)
 
 [10] [《新媒体环境下国有企业舆情生态系统研究》](http://liuyezi0.github.io/files/liuyezi/publications/新媒体环境下国有企业舆情生态系统研究.pdf)
+
+
 
 
 
