@@ -38,7 +38,7 @@ Internet and New Media;Philanthropic Communication; Social Network Analysis; Tec
 
 [3] [《情境、应对与修复:公益组织的舆情危机传播与治理研究——基于湖北红十字会新冠疫情事件的分析](http://liuyezi0.github.io/files/liuyezi/publications/情境_应对与修复_公益组织的舆情_省略_于湖北红十字会新冠疫情.pdf)
 
-[4] [《主体属性与话语表达:公众人物的影响力传播与构建研究——基于<时代周刊>"全球最具影响力人物"榜的分析》](http://liuyezi0.github.io/files/liuyezi/publications/主体属性与话语表达_公众人物的影_省略_刊_全球最具影响力人物.pdf)
+[4] [《主体属性与话语表达:公众人物的影响力传播与构建研究——基于\<时代周刊\>"全球最具影响力人物"榜的分析》](http://liuyezi0.github.io/files/liuyezi/publications/主体属性与话语表达_公众人物的影_省略_刊_全球最具影响力人物.pdf)
 
 [5] [《青春校园题材剧悬浮化倾向及纠偏路径》](http://liuyezi0.github.io/files/liuyezi/publications/青春校园题材剧悬浮化倾向及纠偏路径.pdf)
 
