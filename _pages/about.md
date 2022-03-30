@@ -15,7 +15,7 @@ Welcome~
 
 [cv(中文)](https://liuyezi0.github.io/files/liuyezi/ye_cv.pdf)
 
-[cv(English)](https://liuyezi0.github.io/files/liuyezi/ye_cv_enn.pdf)
+[cv(English)](https://liuyezi0.github.io/files/liuyezi/ye_cv_en.pdf)
 
 # Major Research Interests（主要的研究兴趣）
 
